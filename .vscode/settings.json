@@ -1,0 +1,13 @@
+{
+  "eslint.validate": ["typescript", "typescriptreact"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.formatOnSave": true,
+  "eslint.codeActionsOnSave.rules": null,
+
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  }
+}
